@@ -4,7 +4,8 @@ function obtenerMayor(x, y) {
   // "x" e "y" son números enteros (int).
   // Devuelve el número más grande
   // Si son iguales, devuelve cualquiera de los dos
-  // Tu código:
+  // Tu código:(x:50, y:30): 50
+  
 }
 
 function mayoriaDeEdad(edad) {
